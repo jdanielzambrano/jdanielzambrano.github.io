@@ -9,6 +9,6 @@ This 3d model of a car was made in Maya and then Textured using Substance Painte
 
 {% include image.html image="projects/proj-3/DamagedCarFront1.jpg" %}
 
-{% include image.html image="projects/proj-3/DamagedCarFront1.jpg" %}
+{% include image.html image="projects/proj-3/DamagedCarFront2.jpg" %}
 
 {% include image.html image="projects/proj-3/DamagedCarBack.jpg" %}
