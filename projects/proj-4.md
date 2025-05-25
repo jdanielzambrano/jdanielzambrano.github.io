@@ -1,8 +1,15 @@
 ---
 layout: post
-title: 'Project Four'
+title: 'Digital Art Pieces'
 ---
 
-In diam odio, facilisis eu elementum in, sodales ut dolor. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aenean fermentum ante vitae sagittis efficitur. Praesent interdum sagittis porttitor. Duis non hendrerit metus. Nullam bibendum nunc cursus elit cursus ornare. Nulla eget sodales erat. Quisque laoreet nibh eu eleifend vehicula.
+Art pieces made in Photoshop.
 
-{% include image.html url="http://www.gratisography.com" image="projects/proj-4/bike.jpg" %}
+{% include image.html image="projects/proj-4/thumbnail.jpg" %}
+Skeleton Harpist. A jolly skeleton that walks the river stix playing soothing tunes for the souls below.
+
+{% include image.html image="projects/proj-4/fan art of mizuchi from alchemist code.jpg" %}
+Shooting Mizuchi. Fan Art.
+
+{% include image.html image="projects/proj-4/portrait grayscale art.jpg" %}
+Grayscale Portrait. A redone representation of a famous grayscale photograph.
