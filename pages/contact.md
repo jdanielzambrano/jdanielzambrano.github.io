@@ -6,4 +6,4 @@ permalink: /contact
 
 # Contact
 
-You can contact me through my [email] (mailto:josezambranomir@gmail.com) 
+You can contact me through my [email](mailto:josezambranomir@gmail.com) 
