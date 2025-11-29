@@ -12,8 +12,10 @@ menu:
 projects:
 - {name: '3D Character Model "El Aguila"',   url: 'proj-1'}
 - {name: 'Level Design Video "Odd Living Setup"',   url: 'proj-2'}
+- {name: 'Level Design Video "Magic Shop"',  url: 'proj-6'}
 - {name: 'Destroyed Car 3D Model', url: 'proj-3'}
 - {name: 'Digital Art',  url: 'proj-4'}
+
 [//]: #- {name: 'Project Five',  url: 'proj-5'}
 
 #-------------------------------
